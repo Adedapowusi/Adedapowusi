@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi, I am Adedapo👋
 
-<!--
-**Adedapowusi/Adedapowusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Data Scientist | Healthcare Analytics Specialist | Business Intelligence Analyst | Lifelong Learner and a Teen Coach. Recently Data Science and analyst graduate with distinction who thrive in automating workflows, building predictive models and visualising insight that helps stakeholder especially in Health and Finance.
+
 
 Here are some ideas to get you started:
 
@@ -11,6 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...Hi, I'm Kudus! aka DeDataDude 👋
+
 - ⚡ Fun fact: ...
 -->
